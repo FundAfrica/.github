@@ -57,7 +57,7 @@ At FundAfrica, we believe that **great ideas should never die due to lack of fun
 ---
 
 ## 📲 Get Started Today!
-🔗 **Visit [www.fundafrica.com](#)** to explore AI projects and start investing!  
+🔗 **Visit [www.fundafrica.net](#)** to explore AI projects and start investing!  
 📩 **Developers:** Submit your AI app and get funded.  
 🙌 **Community:** Nominate ideas that Africa needs.  
 💰 **Investors:** Back Africa’s AI future today!  
